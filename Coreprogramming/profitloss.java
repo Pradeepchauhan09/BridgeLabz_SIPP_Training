@@ -1,3 +1,4 @@
+package Coreprogramming;
 public class profitloss {
     public static void main(String[] args) {
         int costPrice = 129;
