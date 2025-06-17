@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class AthleteRun {
-
-    // Method to compute the number of rounds needed to complete 5 km
     public static int computeRounds(double side1, double side2, double side3) {
         double perimeter = side1 + side2 + side3; // perimeter in meters
         double distance = 5000.0; // 5 km in meters
