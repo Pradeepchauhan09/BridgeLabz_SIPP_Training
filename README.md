@@ -35,3 +35,6 @@ Sequence diagram
 
 Day 1 Activity of WorkShop 
 link : https://github.com/Pradeepchauhan09/BridgeLabz_SIPP_Training/tree/WorkShop/Activity/Activity
+
+Day 2 Workshop
+link : https://github.com/Pradeepchauhan09/BridgeLabz_SIPP_Training/tree/Constructor/Day2
